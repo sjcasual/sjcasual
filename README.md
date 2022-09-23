@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sjcasual 21 years old and from germany
+- 👋 Hi, I’m @sjcasual 22 years old and from germany
 - 👀 I’m interested in C#, LUA and Python programming
 - 🌱 I’m currently learning C#, LUA
